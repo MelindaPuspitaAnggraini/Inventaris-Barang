@@ -85,3 +85,13 @@ InventarisBarang/
 - **Material3 Dynamic Color** (Android 12+)
 - **Snackbar** sebagai notifikasi aksi
 - **AlertDialog** untuk konfirmasi hapus
+
+<h2>Screenshot Aplikasi</h2>
+
+<p align="center">
+  <img src="ScreenShot/Inventaris Barang1.jpeg" width="250"/>
+  <img src="ScreenShot/Inventaris Barang2.jpeg" width="250"/>
+    <img src="ScreenShot/Inventaris Barang3.jpeg" width="250"/>
+    <img src="ScreenShot/Inventaris Barang4.jpeg" width="250"/>
+    <img src="ScreenShot/Inventaris Barang5.jpeg" width="250"/>
+</p>
